@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.db
+data/backups/*
+data/logs/*
+data/pdf_exports/*
+dist/
+build/
+installer/
+*.spec
+*.egg-info/
+.vscode/
+.pytest_cache/

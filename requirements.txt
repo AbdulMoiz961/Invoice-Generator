@@ -1,0 +1,6 @@
+PySide6>=6.5
+reportlab>=3.6
+pillow>=9.0
+SQLAlchemy>=1.4
+python-dateutil>=2.8
+PyPDF2>=2.0
