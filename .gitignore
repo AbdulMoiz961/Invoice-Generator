@@ -7,7 +7,6 @@ data/logs/*
 data/pdf_exports/*
 dist/
 build/
-installer/
 *.spec
 *.egg-info/
 .vscode/

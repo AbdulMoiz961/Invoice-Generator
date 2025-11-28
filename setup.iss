@@ -14,7 +14,7 @@ Source: "dist\InvoiceGenerator\*"; DestDir: "{app}"; Flags: ignoreversion recurs
 
 [Icons]
 Name: "{group}\Invoice Generator"; Filename: "{app}\InvoiceGenerator.exe"
-Name: "{commondesktop}\Invoice Generator"; Filename: "{app}\InvoiceGenerator.exe"
+Name: "{autodesktop}\Invoice Generator"; Filename: "{app}\InvoiceGenerator.exe"
 
 [Run]
 Filename: "{app}\InvoiceGenerator.exe"; Description: "{cm:LaunchProgram,Invoice Generator}"; Flags: nowait postinstall skipifsilent
